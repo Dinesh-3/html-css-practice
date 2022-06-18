@@ -29,6 +29,7 @@ a:visited {
     text-transform: uppercase;
     padding: 16px;
     line-height: 1.5;
+    letter-spacing: -1px;
 }
 
 ul {
